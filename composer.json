@@ -1,0 +1,6 @@
+{
+    "name": "yieloo/test-expression-language",
+    "require": {
+        "symfony/expression-language": "^2"
+    }
+}
